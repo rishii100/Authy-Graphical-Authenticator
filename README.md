@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The Graphical Password Authentication System is an innovative and secure way to authenticate users by replacing traditional text-based passwords with graphical images. This system aims to enhance security and protect users from common password-related vulnerabilities, such as social engineering attacks and password reuse.
+Authy is an innovative and secure way to authenticate users by replacing traditional text-based passwords with graphical images. This system aims to enhance security and protect users from common password-related vulnerabilities, such as social engineering attacks and password reuse.
 
 ## Features
 
